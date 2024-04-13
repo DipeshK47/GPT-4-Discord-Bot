@@ -16,7 +16,7 @@ This Discord bot utilizes the power of GPT-4, the latest generation of OpenAI's 
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/your-username/gpt4-discord-bot.git](https://github.com/DipeshK47/GPT-4-Discord-Bot
+   git clone https://github.com/DipeshK47/GPT-4-Discord-Bot
    ```
 
 2. **Install Dependencies:**
